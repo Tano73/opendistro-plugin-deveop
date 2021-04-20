@@ -1,6 +1,6 @@
 # Opendistro Develop
 
-Progetto per lo sviluppo su Open Distro di Amazon
+Progetto per lo sviluppo su Open Distro v1.13.1 di Amazon
 
 ## Pre-Requisiti
 
