@@ -14,7 +14,7 @@ for f in *; do
 	echo "BUILD $f plugin"
 	echo
         echo "$f -- yarn build"
-        yarn build --kibana-version 7.10.2
+        yarn build #--kibana-version 7.10.2
 	echo
 	cd ..
     fi
